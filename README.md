@@ -1,4 +1,4 @@
-# Bootcamp 1: AI Executive Assistant
+# AI Executive Assistant
 
 #### April 2026
 
