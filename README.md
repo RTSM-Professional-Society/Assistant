@@ -12,7 +12,7 @@ This is an AI executive assistant using Claude Code. You'll move from setup thro
 
 ## What You'll Get
 
-By the end of this course, you'll have an AI assistant that:
+It is an AI assistant that:
 
 1. **Saves hours** of repetitive work
 2. **Learns your patterns** and never makes you repeat yourself
@@ -66,7 +66,7 @@ Carson/
 
 ---
 
-# Module 0: What are we building?
+# What are we building?
 
                          You
                           │
